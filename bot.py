@@ -11,7 +11,7 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 # ============ CONFIG ============
-TOKEN = "8785204698:AAFtQfVU2vA1Vhi6wbvQOzw6HSNFsOhUBk4"
+TOKEN = "8654296227:AAELCLmj9csx705NEToBHHKP601wnNJFkFc"
 FORCE_CHANNEL = "https://t.me/SUMITNETW0RK"
 FORCE_CHANNEL_USERNAME = "@SUMITNETW0RK"
 ADMIN_IDS = [7515864015]
