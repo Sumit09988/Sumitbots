@@ -54,7 +54,7 @@ SUPER_ADMINS = [7515864015]
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8463766338:AAHYrhZhnuVzznLXNyesM_2w736yibqUc6Q")
 if not BOT_TOKEN:
     log.warning("⚠️ BOT_TOKEN not set in environment! Using hardcoded token (Not recommended!)")
-    BOT_TOKEN = "8463766338:AAFuxKvVE1Zp1sBpierCvURDkLJ13dkMW9o"
+    BOT_TOKEN = "8463766338:AAHtMq7xdW4nPAMOBv_Xpxd1c6RGIhfGVRo"
 
 _DATA_FILE = "blast_data.json"
 _BACKUP_FILE = _DATA_FILE + ".backup"
